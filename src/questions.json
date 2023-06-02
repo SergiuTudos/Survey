@@ -1,0 +1,412 @@
+{
+  "mock": [
+    {
+      "activityExtras": {
+        "imageSource": "https://tsnow-assets.s3.amazonaws.com/icons/4_mwognc.png",
+        "sideColor": "#34F811"
+      },
+      "answers": [
+        {
+          "id": "1",
+          "name": "Time Off/Not at Work (including break, lunch, not scheduled to work, snow day or COVID leave)",
+          "nextQuestion": 1012
+        },
+        {
+          "id": "2",
+          "name": "Educational/Instructional Activities (including distance learning activities and related paperwork/travel)"
+        },
+        {
+          "id": "3",
+          "name": "Application assistance or outreach activities (including related paperwork/travel)"
+        },
+        {
+          "id": "4",
+          "name": "Arranging/scheduling transportation or translation/interpretation services (including related paperwork/travel)"
+        },
+        {
+          "id": "5",
+          "name": "Delivering Direct Medical Services (including telehealth services provided when the practitioner is remotely located from the student and related paperwork/travel)"
+        },
+        {
+          "id": "6",
+          "name": "Developing/Planning School Programs or Policies (including related paperwork/travel)"
+        }
+      ],
+      "categorySortOrder": "2",
+      "organRelated": true,
+      "loaType": true,
+      "_id": "63cfd6d654ca9b25ef425fca",
+      "activityId": "1001",
+      "name": "1. What type / category of activity were you doing?",
+      "description": "Managers & Data",
+      "sortOrder": "2",
+      "categoryId": "343",
+      "categoryName": "",
+      "timeAsDuration": true,
+      "timeFormId": "183",
+      "timeFormName": "Managers & Data",
+      "periodId": "3777",
+      "duration": 0,
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "nextQuestion": "1002"
+    },
+    {
+      "activityExtras": {
+        "imageSource": "https://tsnow-assets.s3.amazonaws.com/icons/4_mwognc.png",
+        "sideColor": "#34F811"
+      },
+      "answers": [
+        {
+          "id": "1",
+          "name": "Break - Paid"
+        },
+        {
+          "id": "2",
+          "name": "Lunch - Not Paid"
+        },
+        {
+          "id": "3",
+          "name": "Lunch - Paid"
+        },
+        {
+          "id": "4",
+          "name": "Not scheduled to work/Flex day/Holiday - Not Paid"
+        },
+        {
+          "id": "5",
+          "name": "Not scheduled to work/Flex day/Holiday - Paid"
+        },
+        {
+          "id": "6",
+          "name": "School closed due to inclement weather or other circumstances"
+        },
+        {
+          "id": "7",
+          "name": "Vacation/Sick leave/other leave - Not Paid"
+        },
+        {
+          "id": "8",
+          "name": "Vacation/Sick leave/other leave - Paid"
+        },
+        {
+          "id": "9",
+          "name": "COVID leave"
+        },
+        {
+          "id": "10",
+          "name": "Meetings related to Educational/Instructional activities"
+        },
+        {
+          "id": "11",
+          "name": "Prep/planning period work"
+        },
+        {
+          "id": "12",
+          "name": "Student Conferencing"
+        },
+        {
+          "id": "13",
+          "name": "Supervision of Students (Classroom, hallway, lunch, recess, bus, assembly, etc.)"
+        },
+        {
+          "id": "14",
+          "name": "Teaching/Instruction of an educational subject"
+        },
+        {
+          "id": "15",
+          "name": "Testing/Evaluations/Assessments for educational services"
+        },
+        {
+          "id": "16",
+          "name": "Classroom observation of teacher or other staff member"
+        },
+        {
+          "id": "17",
+          "name": "If none of the above responses accurately describes what activity you were doing, please type your answer below:"
+        },
+        {
+          "id": "18",
+          "name": "Meetings related to application assistance"
+        },
+        {
+          "id": "19",
+          "name": "Documenting activities related to application assistance"
+        },
+        {
+          "id": "20",
+          "name": "Explaining the application process or providing application materials"
+        },
+        {
+          "id": "21",
+          "name": "Helping to complete an application"
+        },
+        {
+          "id": "22",
+          "name": "Meetings related to outreach"
+        }
+      ],
+      "categorySortOrder": "2",
+      "organRelated": true,
+      "loaType": true,
+      "_id": "63cfd6d654ca9b25ef425f51",
+      "activityId": "1002",
+      "name": "2. What were you doing more specifically - What was the primary focus of your activity?",
+      "description": "Managers & Data",
+      "sortOrder": "2",
+      "categoryId": "343",
+      "categoryName": "",
+      "timeAsDuration": true,
+      "timeFormId": "183",
+      "timeFormName": "Managers & Data",
+      "periodId": "3777",
+      "duration": 0,
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "nextQuestion": "1003"
+    },
+    {
+      "activityExtras": {
+        "imageSource": "https://tsnow-assets.s3.amazonaws.com/icons/4_mwognc.png",
+        "sideColor": "#34F811"
+      },
+      "answers": [
+        {
+          "id": "1",
+          "name": "To address discipline or attendance issues"
+        },
+        {
+          "id": "2",
+          "name": "Assigned duties/job requirement"
+        },
+        {
+          "id": "3",
+          "name": "Curriculum/program development related to education"
+        },
+        {
+          "id": "4",
+          "name": "To discuss educational issues/progress"
+        },
+        {
+          "id": "5",
+          "name": "Follow up to ensure a student is receiving prescribed educational service(s)"
+        },
+        {
+          "id": "6",
+          "name": "To improve coordination or delivery of an educational service"
+        },
+        {
+          "id": "7",
+          "name": "If none of the above responses accurately describes what activity you were doing, please type your answer below:",
+          "freeText": true
+        }
+      ],
+      "categorySortOrder": "3",
+      "organRelated": true,
+      "loaType": false,
+      "_id": "63cfd6d654ca9b25ef425fc1",
+      "activityId": "1003",
+      "name": "3. Why were you performing this activity??",
+      "description": "Managers & Data",
+      "sortOrder": "3",
+      "categoryId": "344",
+      "categoryName": "",
+      "timeAsDuration": true,
+      "timeFormId": "183",
+      "timeFormName": "Managers & Data",
+      "periodId": "3777",
+      "duration": 0,
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "nextQuestion": "1004"
+    },
+    {
+      "activityExtras": {
+        "imageSource": "https://tsnow-assets.s3.amazonaws.com/icons/4_mwognc.png",
+        "sideColor": "#34F811"
+      },
+      "answers": [
+        {
+          "id": "1",
+          "name": "Parent/Guardian"
+        },
+        {
+          "id": "2",
+          "name": "School/District Staff"
+        },
+        {
+          "id": "3",
+          "name": "Student(s)"
+        },
+        {
+          "id": "4",
+          "name": "Other",
+          "freeText": true
+        }
+      ],
+      "categorySortOrder": "3",
+      "organRelated": true,
+      "loaType": false,
+      "_id": "63cfd6d654ca9b25ef425fc2",
+      "activityId": "1004",
+      "name": "4. Who were you working or interacting with in performance of this activity? (Please do not use actual names).",
+      "description": "Managers & Data",
+      "sortOrder": "3",
+      "categoryId": "344",
+      "categoryName": "",
+      "timeAsDuration": true,
+      "timeFormId": "183",
+      "timeFormName": "Managers & Data",
+      "periodId": "3777",
+      "duration": 0,
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "nextQuestion": "1005"
+    },
+    {
+      "activityExtras": {
+        "imageSource": "https://tsnow-assets.s3.amazonaws.com/icons/4_mwognc.png",
+        "sideColor": "#34F811"
+      },
+      "answers": [
+        {
+          "id": "1",
+          "name": "N/A "
+        }
+      ],
+      "categorySortOrder": "3",
+      "organRelated": true,
+      "loaType": false,
+      "_id": "63cfd6d654ca9b25ef425fc3",
+      "activityId": "1005",
+      "name": "5a. Why were you performing this activity - Was it pursuant to an IEP?",
+      "description": "Managers & Data",
+      "sortOrder": "3",
+      "categoryId": "344",
+      "categoryName": "",
+      "timeAsDuration": true,
+      "timeFormId": "183",
+      "timeFormName": "Managers & Data",
+      "periodId": "3777",
+      "duration": 0,
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "nextQuestion": "1015"
+    },
+    {
+      "activityExtras": {
+        "imageSource": "https://tsnow-assets.s3.amazonaws.com/icons/4_mwognc.png",
+        "sideColor": "#34F811"
+      },
+      "answers": [
+        {
+          "id": "1",
+          "name": "N/A "
+        }
+      ],
+      "categorySortOrder": "3",
+      "organRelated": true,
+      "loaType": false,
+      "_id": "63cfd6d654ca9b25ef425fc4",
+      "activityId": "1015",
+      "name": "5b. Why were you performing this activity - How was it authorized?",
+      "description": "Managers & Data",
+      "sortOrder": "3",
+      "categoryId": "344",
+      "categoryName": "",
+      "timeAsDuration": true,
+      "timeFormId": "183",
+      "timeFormName": "Managers & Data",
+      "periodId": "3777",
+      "duration": 0,
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "nextQuestion": "1025",
+      "isHidden": true
+    },
+    {
+      "activityExtras": {
+        "imageSource": "https://tsnow-assets.s3.amazonaws.com/icons/4_mwognc.png",
+        "sideColor": "#34F811"
+      },
+      "answers": [
+        {
+          "id": "1",
+          "name": "N/A "
+        }
+      ],
+      "categorySortOrder": "3",
+      "organRelated": true,
+      "loaType": false,
+      "_id": "63cfd6d654ca9b25ef325fc2",
+      "activityId": "1025",
+      "name": "5c. Why were you performing this activity? - Did the service meet Medicaid medical necessity requirements?",
+      "description": "Managers & Data",
+      "sortOrder": "3",
+      "categoryId": "344",
+      "categoryName": "",
+      "timeAsDuration": true,
+      "timeFormId": "183",
+      "timeFormName": "Managers & Data",
+      "periodId": "3777",
+      "duration": 0,
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "nextQuestion": "1035",
+      "isHidden": true
+    },
+    {
+      "activityExtras": {
+        "imageSource": "https://tsnow-assets.s3.amazonaws.com/icons/4_mwognc.png",
+        "sideColor": "#34F811"
+      },
+      "answers": [
+        {
+          "id": "1",
+          "name": "N/A "
+        }
+      ],
+      "categorySortOrder": "3",
+      "organRelated": true,
+      "loaType": false,
+      "_id": "63cfd6d654ca9b25ef425fc6",
+      "activityId": "1035",
+      "name": "5d. Why were you performing this activity? - Were you acting within the scope of your clinical license?",
+      "description": "Managers & Data",
+      "sortOrder": "3",
+      "categoryId": "344",
+      "categoryName": "",
+      "timeAsDuration": true,
+      "timeFormId": "183",
+      "timeFormName": "Managers & Data",
+      "periodId": "3777",
+      "duration": 0,
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "nextQuestion": "",
+      "narativeRequired": false
+    },
+    {
+      "activityExtras": {
+        "imageSource": "https://tsnow-assets.s3.amazonaws.com/icons/4_mwognc.png",
+        "sideColor": "#34F811"
+      },
+      "answers": [
+        {
+          "id": "1",
+          "name": "",
+          "freeText": true
+        }
+      ],
+      "categorySortOrder": "2",
+      "organRelated": true,
+      "loaType": true,
+      "_id": "63cfd6d654ca9b25ef425f10",
+      "activityId": "8888",
+      "name": "REQUIRED NARRATIVE: Provide a brief description (no more than 250 characters) of the work that was occurring at your assigned moment (minute).",
+      "description": "Managers & Data",
+      "sortOrder": "2",
+      "categoryId": "343",
+      "categoryName": "",
+      "timeAsDuration": true,
+      "timeFormId": "183",
+      "timeFormName": "Managers & Data",
+      "periodId": "3777",
+      "duration": 0,
+      "isNarrative": true,
+      "startDate": "2023-01-01T00:00:00.000Z"
+    }
+  ]
+}
